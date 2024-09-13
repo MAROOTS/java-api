@@ -1,0 +1,23 @@
+# Node modules
+frontend-ecommerce/node_modules/
+frontend-ecommerce/build/
+frontend-ecommerce/dist/
+
+# Java dependencies
+backend-ecommerce/target/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dotenv
+frontend-ecommerce/.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
